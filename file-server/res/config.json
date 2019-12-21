@@ -1,0 +1,19 @@
+{
+    "users":[
+        {
+            "name":"test",
+            "password":"test"
+        },
+        {
+            "name":"test2",
+            "password":"test2"
+        },
+        {
+            "name":"admin",
+            "password":"admin"
+        }
+    ],
+    "admin":["admin"],
+    "tmpFilePath":"/home/allen/桌面/code/web/work/file/tmp",
+    "filePath":"/home/allen/桌面/code/web/work/file/file"
+}
