@@ -41,7 +41,7 @@ Network Homework By Qt
     "cmd": "...",   
     "seq": "...",
     "ack": "...",
-    "data": {...}
+    "data": {}
 }
 ```
 
@@ -68,7 +68,7 @@ Network Homework By Qt
     "msg": "...", 
     "seq": "...",
     "ack": "...",
-    "data": {...}
+    "data": {}
 }
 ```
 
